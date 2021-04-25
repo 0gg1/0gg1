@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0gg1
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning C# in my school.
